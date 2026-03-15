@@ -1,0 +1,18 @@
+# Build output
+out/
+**/bin/
+**/obj/
+
+# Local .NET / NuGet cache created by Invoke-DnlibPatch.ps1
+.dotnet/
+.appdata/
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
