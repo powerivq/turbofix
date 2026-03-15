@@ -1,6 +1,6 @@
 # dnlib Function Patcher
 
-Patches TurboTax 2025 to remove activation and entitlement checks. Already fully configured — just install the prerequisite and run.
+Patches a software to remove activation and entitlement checks. Already fully configured — just install the prerequisite and run.
 
 ---
 
